@@ -39,7 +39,7 @@ StasisCLI is an automation bot designed to help users purchase items, generate u
 
 ## Why Open Source?
 
-I work a full time job now, which I didnt when I initally launched StasisCLI. I unfortunately no longer have the time to continue to update StasisCLI, which is why I have decided to open source - allowing anyone to update what I have already built!
+I work a full time job now, which I didnt when I initally launched StasisCLI. I unfortunately no longer have the time to continue to update StasisCLI, which is why I have decided to open source - allowing anyone to learn from what I have already built!
 
 ## Not a Developer?
 
