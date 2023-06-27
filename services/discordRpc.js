@@ -17,7 +17,7 @@ module.exports = class discordRPC {
       });
 
       await this.rpc.login({
-        clientId: "1103384718155722928",
+        clientId: "",
       });
     } catch (e) {
       global.logThis(
