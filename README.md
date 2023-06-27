@@ -47,7 +47,7 @@ Download the compiled version [here](https://stasis-downloads.s3.amazonaws.com/S
 
 ## Requirements
 
-- Datadome API (For Magic Eden Sniper)
+- Datadome API (Optional - For Magic Eden Sniper - only needed for high amount requests)
 
 ## Commands:
 
